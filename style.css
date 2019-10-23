@@ -33,6 +33,7 @@ text-align: center;
 }
 
 .container {
+  background-color: white;
   width: 500px;   /* This sets the width */
   margin: 0 auto; /* This automatically sets left/right margins */
 }
